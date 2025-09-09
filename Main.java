@@ -20,6 +20,8 @@ public class Main {
         a /= 2;
         System.out.println(a);
 
+        System.out.println();
+        
         int c = 6;
         float d = c++;
         System.out.println(c + " : " + d );
